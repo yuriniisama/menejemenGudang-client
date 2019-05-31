@@ -1,0 +1,2 @@
+# menejemenGudang
+pi dalbo
